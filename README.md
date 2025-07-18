@@ -1,6 +1,7 @@
 # Gerçek Zamanlı Trafik Değişkenlerinin Görüntü İşleme Esaslı Ölçümü
 
 Bu proje, bir yol üzerindeki araçları gerçek zamanlı olarak tespit edip; araç sayısı, hız, yoğunluk ve geçiş sürelerini hesaplayan bir trafik analiz sistemidir.
+Daha detaylı bilgi için Proje Sunumları klasörünü ve Algoritma Diagramı klasörlerini inceleyebilirsiniz.
 
 ## 🔧 Kullanılan Teknolojiler
 
