@@ -23,4 +23,4 @@ Bu proje, bir yol üzerindeki araçları gerçek zamanlı olarak tespit edip; ar
 - Ulaşım mühendisliği
 
 ## ▶️ Çalıştırmak için
-GÖRÜNTÜ İŞLEME İLE TRAFİK YOĞUNLUĞU HESAPLAMA UYGULAMASI\hıztespitiproje\hiz_tespit.py
+hıztespitiproje\hiz_tespit.py
